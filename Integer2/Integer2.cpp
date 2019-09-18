@@ -8,4 +8,5 @@ int main()
 	int b = a / 1000;
 	if (b == 1) { cout << "It is " << b << " ton"; }
 	else (cout << "It is " << b << " tones");
+	return 0;
 }

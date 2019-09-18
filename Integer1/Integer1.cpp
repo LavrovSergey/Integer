@@ -7,4 +7,5 @@ int main()
 	cin >> a;
 	int b = a / 100;
 	cout << "It is " << b << " meters";
+	return 0;
 }
